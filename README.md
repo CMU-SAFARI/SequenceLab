@@ -135,7 +135,14 @@ To run only the fast filters, use the following flag:
 The slow filters can be run individually by activating their corresponding index.
 
 ## Citing SequenceLab
-To cite SequenceLab, you can use the following BibTeX:
+
+If you use SequenceLab in your work, please cite:
+
+> Maximilian-David Rumpf, Mohammed Alser, Arvid E. Gollwitzer, Joel Lindegger, Nour Almadhoun, Can Firtina, Serghei Mangul, Onur Mutlu. 
+> "SequenceLab: A Comprehensive Benchmark of Computational Methods for Comparing Genomic Sequences" 
+> (2023). https://doi.org/10.48550/arXiv.2310.16908)
+
+You may use the following BibTeX:
 
 ```bibtex
 @misc{rumpf2023sequencelab,
