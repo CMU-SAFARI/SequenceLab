@@ -140,7 +140,7 @@ If you use SequenceLab in your work, please cite:
 
 > Maximilian-David Rumpf, Mohammed Alser, Arvid E. Gollwitzer, Joel Lindegger, Nour Almadhoun, Can Firtina, Serghei Mangul, Onur Mutlu. 
 > "SequenceLab: A Comprehensive Benchmark of Computational Methods for Comparing Genomic Sequences" 
-> (2023). https://doi.org/10.48550/arXiv.2310.16908)
+> (2023). https://doi.org/10.48550/arXiv.2310.16908
 
 You may use the following BibTeX:
 
