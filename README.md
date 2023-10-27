@@ -138,11 +138,12 @@ The slow filters can be run individually by activating their corresponding index
 To cite SequenceLab, you can use the following BibTeX:
 
 ```bibtex
-@article{sequenceLab2023,
-  title={SequenceLab: A Comprehensive Benchmark of Computational Methods for Comparing Genomic Sequences},
-  author={Maximilian-David Rumpf and Mohammed Alser and Arvid Gollwitzer and Nour Almadhoun and Joël Lindegger and Can Firtina and Serghei Mangul and Onur Mutlu},
-  year={2023},
-  month={oct},
-  journal={arXiv},
+@misc{rumpf2023sequencelab,
+      title={SequenceLab: A Comprehensive Benchmark of Computational Methods for Comparing Genomic Sequences}, 
+      author={Maximilian-David Rumpf and Mohammed Alser and Arvid E. Gollwitzer and Joel Lindegger and Nour Almadhoun and Can Firtina and Serghei Mangul and Onur Mutlu},
+      year={2023},
+      eprint={2310.16908},
+      archivePrefix={arXiv},
+      primaryClass={q-bio.GN}
 }
 ```
