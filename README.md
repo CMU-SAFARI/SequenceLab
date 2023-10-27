@@ -1,5 +1,7 @@
 # [SequenceLab](https://github.com/CMU-SAFARI/SequenceLab)
 
+Preprint available at: https://doi.org/10.48550/arXiv.2310.16908
+
 SequenceLab enables comprehensive benchmarks of computational methods for comparing genomic sequences.
 SequenceLab is written in C, but compiled in using `g++` to increase compatibility with filters written in C++.  It was designed to be incredibly lightweight and only add minimal overhead to running the filters themselves.
 
