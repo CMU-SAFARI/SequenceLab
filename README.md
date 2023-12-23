@@ -136,6 +136,13 @@ To run only the fast filters, use the following flag:
 ```
 The slow filters can be run individually by activating their corresponding index.
 
+## Reproducible Evaluation
+All results presented in our paper are fully reproducible.  
+We provide a script to generate all results by executing a single command line:
+```bash
+run_all.sh
+```
+
 ## Citing SequenceLab
 
 If you use SequenceLab in your work, please cite:
