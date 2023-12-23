@@ -144,7 +144,6 @@ run_all.sh
 ```
 
 ## Citing SequenceLab
-
 If you use SequenceLab in your work, please cite:
 
 > Maximilian-David Rumpf, Mohammed Alser, Arvid E. Gollwitzer, Joel Lindegger, Nour Almadhoun, Can Firtina, Serghei Mangul, Onur Mutlu. 
